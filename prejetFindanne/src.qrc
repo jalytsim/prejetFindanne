@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>resource/background interface.png</file>
+        <file>resource/projet.db</file>
+        <file>resource/bg.png</file>
+    </qresource>
+</RCC>

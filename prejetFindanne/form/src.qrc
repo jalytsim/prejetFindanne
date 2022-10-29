@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background interface.png</file>
+        <file>projet.db</file>
+        <file>tena izy acceuil.png</file>
+    </qresource>
+</RCC>
